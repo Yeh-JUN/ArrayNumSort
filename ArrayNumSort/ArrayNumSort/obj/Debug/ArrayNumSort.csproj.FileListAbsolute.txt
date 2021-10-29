@@ -1,0 +1,7 @@
+C:\Users\Win-Jun\Desktop\ArrayNumSort\ArrayNumSort\ArrayNumSort\bin\Debug\ArrayNumSort.exe.config
+C:\Users\Win-Jun\Desktop\ArrayNumSort\ArrayNumSort\ArrayNumSort\bin\Debug\ArrayNumSort.exe
+C:\Users\Win-Jun\Desktop\ArrayNumSort\ArrayNumSort\ArrayNumSort\bin\Debug\ArrayNumSort.pdb
+C:\Users\Win-Jun\Desktop\ArrayNumSort\ArrayNumSort\ArrayNumSort\obj\Debug\ArrayNumSort.csproj.AssemblyReference.cache
+C:\Users\Win-Jun\Desktop\ArrayNumSort\ArrayNumSort\ArrayNumSort\obj\Debug\ArrayNumSort.csproj.CoreCompileInputs.cache
+C:\Users\Win-Jun\Desktop\ArrayNumSort\ArrayNumSort\ArrayNumSort\obj\Debug\ArrayNumSort.exe
+C:\Users\Win-Jun\Desktop\ArrayNumSort\ArrayNumSort\ArrayNumSort\obj\Debug\ArrayNumSort.pdb
