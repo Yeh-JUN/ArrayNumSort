@@ -15,7 +15,7 @@ namespace ArrayNumSort
             Array.Sort(nums);
             foreach (var val in nums)
             {
-                Console.Write(val + " ");
+                Console.Write(val + ",");
             }
             Console.WriteLine();
             Console.ReadLine();
